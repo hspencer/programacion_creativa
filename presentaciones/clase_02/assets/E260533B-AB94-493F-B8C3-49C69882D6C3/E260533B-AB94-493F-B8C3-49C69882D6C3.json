@@ -355,21 +355,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Estructura for unidimensional",
-          "targetRectangle" : {
-            "y" : 59.87498116493225,
-            "x" : 67.24996972084045,
-            "width" : 972.4400000000001,
-            "height" : 84
-          }
-        },
-        {
           "text" : "Imagen 7.png",
           "targetRectangle" : {
             "y" : 222.0220336914062,
             "x" : 302.2024841308594,
             "width" : 856.9619140625,
             "height" : 635.9559326171875
+          }
+        },
+        {
+          "text" : "Estructura for unidimensional",
+          "targetRectangle" : {
+            "y" : 59.87498116493225,
+            "x" : 67.24996972084045,
+            "width" : 972.4400000000001,
+            "height" : 84
           }
         }
       ],

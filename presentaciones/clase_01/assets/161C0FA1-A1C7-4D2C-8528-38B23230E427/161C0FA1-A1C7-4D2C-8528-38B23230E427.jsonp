@@ -2,9 +2,9 @@ local_slide( {
   "name" : "161C0FA1-A1C7-4D2C-8528-38B23230E427",
   "json" : {
     "assets" : {
-      "0E8C6B76B56B44282B13CE610BF4416F" : {
+      "F8F84E5BB7F6731DEEFAA492C0CAC4EF" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/161C0FA1-A1C7-4D2C-8528-38B23230E427.pdf"
         },
-        "width" : 362,
-        "height" : 31
+        "width" : 1193,
+        "height" : 942
       },
       "88B9FD0A46D708E3CE57B3F30D5101CB" : {
         "type" : "texture",
@@ -29,6 +29,20 @@ local_slide( {
         },
         "width" : 492,
         "height" : 32
+      },
+      "4124366477E42F8FE8C1202A816AB5AB" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/161C0FA1-A1C7-4D2C-8528-38B23230E427.pdf"
+        },
+        "width" : 565,
+        "height" : 980
       },
       "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
         "type" : "texture",
@@ -72,9 +86,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "60EF6C4CE83B02FD8981C98C87C0D9C0" : {
+      "0E8C6B76B56B44282B13CE610BF4416F" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -83,22 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/161C0FA1-A1C7-4D2C-8528-38B23230E427.pdf"
         },
-        "width" : 565,
-        "height" : 980
-      },
-      "F8F84E5BB7F6731DEEFAA492C0CAC4EF" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/161C0FA1-A1C7-4D2C-8528-38B23230E427.pdf"
-        },
-        "width" : 1193,
-        "height" : 942
+        "width" : 362,
+        "height" : 31
       }
     },
     "events" : [
@@ -393,6 +393,15 @@ local_slide( {
             }
           },
           {
+            "text" : "droppedImage.tiff",
+            "targetRectangle" : {
+              "y" : 29.01776123046875,
+              "x" : 1240.914916992188,
+              "width" : 561.6572875976562,
+              "height" : 977.7755737304688
+            }
+          },
+          {
             "text" : "El Golem film de Paul Wegener, 1920",
             "targetRectangle" : {
               "y" : 1007.630737304688,
@@ -408,15 +417,6 @@ local_slide( {
               "x" : 51.83712387084961,
               "width" : 1189.716064453125,
               "height" : 938.5933227539062
-            }
-          },
-          {
-            "text" : "droppedImage.tiff",
-            "targetRectangle" : {
-              "y" : 29.01776123046875,
-              "x" : 1240.914916992188,
-              "width" : 561.6572875976562,
-              "height" : 977.7755737304688
             }
           }
         ],
@@ -948,7 +948,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "60EF6C4CE83B02FD8981C98C87C0D9C0"
+                      "texture" : "4124366477E42F8FE8C1202A816AB5AB"
                     }
                   ]
                 }

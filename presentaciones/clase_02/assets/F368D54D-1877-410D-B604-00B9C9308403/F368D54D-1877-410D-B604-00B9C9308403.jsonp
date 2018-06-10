@@ -357,21 +357,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Imagen 10.png",
-            "targetRectangle" : {
-              "y" : 224.6941070556641,
-              "x" : 295.9103088378906,
-              "width" : 839.567626953125,
-              "height" : 819.3099365234375
-            }
-          },
-          {
             "text" : "Estructura for unidimensional + condicional if",
             "targetRectangle" : {
               "y" : 59.87498116493225,
               "x" : 67.24996972084045,
               "width" : 1495.55,
               "height" : 84
+            }
+          },
+          {
+            "text" : "Imagen 10.png",
+            "targetRectangle" : {
+              "y" : 224.6941070556641,
+              "x" : 295.9103088378906,
+              "width" : 839.567626953125,
+              "height" : 819.3099365234375
             }
           }
         ],

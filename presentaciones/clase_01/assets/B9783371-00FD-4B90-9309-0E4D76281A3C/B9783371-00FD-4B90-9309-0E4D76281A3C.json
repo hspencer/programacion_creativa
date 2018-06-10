@@ -14,9 +14,9 @@
       "width" : 541,
       "height" : 32
     },
-    "748EB28CF224F219BF106A60132523D7" : {
+    "6AD7875B91DD927ECDE0781962911424" : {
       "type" : "texture",
-      "index" : 4,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -25,8 +25,8 @@
       "url" : {
         "native" : "assets\/B9783371-00FD-4B90-9309-0E4D76281A3C.pdf"
       },
-      "width" : 1920,
-      "height" : 1080
+      "width" : 1347,
+      "height" : 1004
     },
     "E16FEED64F3866049B8E1CAEEF158845" : {
       "type" : "texture",
@@ -42,9 +42,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "AEE254F355BFF3F46CA78F6284DFAAE3" : {
+    "748EB28CF224F219BF106A60132523D7" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 4,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -53,8 +53,8 @@
       "url" : {
         "native" : "assets\/B9783371-00FD-4B90-9309-0E4D76281A3C.pdf"
       },
-      "width" : 1347,
-      "height" : 1004
+      "width" : 1920,
+      "height" : 1080
     },
     "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Captura de pantalla 2018-06-10 a la(s) 11.42.55.png",
-          "targetRectangle" : {
-            "y" : 25.70377654851658,
-            "x" : 262.1574089017727,
-            "width" : 1344.331298828125,
-            "height" : 1000.581237792969
-          }
-        },
-        {
           "text" : "Ecosistema de influencias de Processing",
           "targetRectangle" : {
             "y" : 1018.1708984375,
             "x" : 1332.9140625,
             "width" : 541.3719999999998,
             "height" : 35
+          }
+        },
+        {
+          "text" : "Captura de pantalla 2018-06-10 a la(s) 11.42.55.png",
+          "targetRectangle" : {
+            "y" : 25.70377654851658,
+            "x" : 262.1574089017727,
+            "width" : 1344.331298828125,
+            "height" : 1000.581237792969
           }
         }
       ],
@@ -784,7 +784,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "AEE254F355BFF3F46CA78F6284DFAAE3"
+                    "texture" : "6AD7875B91DD927ECDE0781962911424"
                   }
                 ]
               }

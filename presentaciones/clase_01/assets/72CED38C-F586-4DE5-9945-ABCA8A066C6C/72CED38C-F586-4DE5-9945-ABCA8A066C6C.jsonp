@@ -370,11 +370,11 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "@hspencer",
+            "text" : "con Processing",
             "targetRectangle" : {
-              "y" : 907.9143679141998,
-              "x" : 1623.598315191269,
-              "width" : 221.55,
+              "y" : 632.5097658634186,
+              "x" : 74.85168480873108,
+              "width" : 298.1999999999999,
               "height" : 50
             }
           },
@@ -388,11 +388,11 @@ local_slide( {
             }
           },
           {
-            "text" : "con Processing",
+            "text" : "@hspencer",
             "targetRectangle" : {
-              "y" : 632.5097658634186,
-              "x" : 74.85168480873108,
-              "width" : 298.1999999999999,
+              "y" : 907.9143679141998,
+              "x" : 1623.598315191269,
+              "width" : 221.55,
               "height" : 50
             }
           }

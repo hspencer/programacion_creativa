@@ -30,7 +30,7 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "807D05F1E253E5FFB8BFCC18F7F7F491" : {
+      "A18920F6B293F03931667D8B0C04A8BA" : {
         "type" : "texture",
         "index" : 1,
         "assetRequest" : {
@@ -764,7 +764,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "807D05F1E253E5FFB8BFCC18F7F7F491"
+                      "texture" : "A18920F6B293F03931667D8B0C04A8BA"
                     }
                   ]
                 }

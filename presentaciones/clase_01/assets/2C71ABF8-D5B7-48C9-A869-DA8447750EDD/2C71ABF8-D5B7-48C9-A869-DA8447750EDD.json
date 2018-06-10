@@ -1,6 +1,20 @@
 {
   "assets" : {
-    "C25C25FF361FB24FC35F6B120D2F252D" : {
+    "AEE254F355BFF3F46CA78F6284DFAAE3" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/2C71ABF8-D5B7-48C9-A869-DA8447750EDD.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
+    "DCE2D74B95531636961B34D80806BF69" : {
       "type" : "texture",
       "index" : 0,
       "assetRequest" : {
@@ -55,20 +69,6 @@
       },
       "width" : 544,
       "height" : 99
-    },
-    "AEE254F355BFF3F46CA78F6284DFAAE3" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/2C71ABF8-D5B7-48C9-A869-DA8447750EDD.pdf"
-      },
-      "width" : 1920,
-      "height" : 1080
     }
   },
   "events" : [
@@ -354,6 +354,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "pasted-image.tiff",
+          "targetRectangle" : {
+            "y" : -14.92108345031738,
+            "x" : 158.9217376708984,
+            "width" : 1602.156494140625,
+            "height" : 1080
+          }
+        },
+        {
           "text" : "DBN - Design by numbers",
           "targetRectangle" : {
             "y" : 948.1708984375,
@@ -369,15 +378,6 @@
             "x" : 1332.9140625,
             "width" : 549.3470000000002,
             "height" : 70
-          }
-        },
-        {
-          "text" : "pasted-image.tiff",
-          "targetRectangle" : {
-            "y" : -14.92108345031738,
-            "x" : 158.9217376708984,
-            "width" : 1602.156494140625,
-            "height" : 1080
           }
         }
       ],
@@ -612,7 +612,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                    "texture" : "DCE2D74B95531636961B34D80806BF69"
                   }
                 ]
               }

@@ -371,21 +371,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "La no-conmutabilidad de las transformaciones",
-            "targetRectangle" : {
-              "y" : 59.87498116493225,
-              "x" : 67.24996972084045,
-              "width" : 1525.3,
-              "height" : 84
-            }
-          },
-          {
             "text" : "Imagen 16.png",
             "targetRectangle" : {
               "y" : 212.0543822903435,
               "x" : 435.4687499999998,
               "width" : 1049.0625,
               "height" : 352.96875
+            }
+          },
+          {
+            "text" : "La no-conmutabilidad de las transformaciones",
+            "targetRectangle" : {
+              "y" : 59.87498116493225,
+              "x" : 67.24996972084045,
+              "width" : 1525.3,
+              "height" : 84
             }
           },
           {

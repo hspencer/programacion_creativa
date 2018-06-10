@@ -28,7 +28,7 @@
       "width" : 933,
       "height" : 1776
     },
-    "5E9C58563BFF66CE06386CA8D11332E3" : {
+    "4124366477E42F8FE8C1202A816AB5AB" : {
       "type" : "texture",
       "index" : 2,
       "assetRequest" : {
@@ -238,7 +238,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "5E9C58563BFF66CE06386CA8D11332E3"
+                    "texture" : "4124366477E42F8FE8C1202A816AB5AB"
                   },
                   {
                     "animations" : [

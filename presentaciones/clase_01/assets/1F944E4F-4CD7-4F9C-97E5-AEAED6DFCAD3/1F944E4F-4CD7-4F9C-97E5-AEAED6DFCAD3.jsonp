@@ -357,21 +357,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "ellipse();",
-            "targetRectangle" : {
-              "y" : 59.87498116493225,
-              "x" : 67.24996972084045,
-              "width" : 282.03,
-              "height" : 84
-            }
-          },
-          {
             "text" : "Imagen 15.png",
             "targetRectangle" : {
               "y" : 321.1718444824219,
               "x" : 130.2451782226562,
               "width" : 1659.509643554688,
               "height" : 569.3800048828125
+            }
+          },
+          {
+            "text" : "ellipse();",
+            "targetRectangle" : {
+              "y" : 59.87498116493225,
+              "x" : 67.24996972084045,
+              "width" : 282.03,
+              "height" : 84
             }
           }
         ],

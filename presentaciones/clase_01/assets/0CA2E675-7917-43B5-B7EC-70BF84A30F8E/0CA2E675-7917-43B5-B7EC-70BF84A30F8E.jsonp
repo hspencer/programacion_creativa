@@ -372,15 +372,6 @@ local_slide( {
           {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
-              "y" : 4.332036951382179e-08,
-              "x" : -1.316580295562744,
-              "width" : 781.4584350585938,
-              "height" : 1080
-            }
-          },
-          {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
               "y" : 3.552713678800501e-15,
               "x" : 778.562744140625,
               "width" : 774.9000244140625,
@@ -403,6 +394,15 @@ local_slide( {
               "x" : 1573.181396484375,
               "width" : 248.7910000000002,
               "height" : 35
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 4.332036951382179e-08,
+              "x" : -1.316580295562744,
+              "width" : 781.4584350585938,
+              "height" : 1080
             }
           }
         ],

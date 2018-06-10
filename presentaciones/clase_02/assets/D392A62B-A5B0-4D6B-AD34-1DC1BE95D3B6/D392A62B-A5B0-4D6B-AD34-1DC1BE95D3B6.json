@@ -1,6 +1,6 @@
 {
   "assets" : {
-    "35584308901BEB980814379FF827EE4D" : {
+    "C25C25FF361FB24FC35F6B120D2F252D" : {
       "type" : "texture",
       "index" : 0,
       "assetRequest" : {
@@ -355,21 +355,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Imagen 9.png",
-          "targetRectangle" : {
-            "y" : 230.2181396484375,
-            "x" : 299.1965942382812,
-            "width" : 848.4016723632812,
-            "height" : 798.7611694335938
-          }
-        },
-        {
           "text" : "Estructura for unidimensional + condicional if",
           "targetRectangle" : {
             "y" : 59.87498116493225,
             "x" : 67.24996972084045,
             "width" : 1495.55,
             "height" : 84
+          }
+        },
+        {
+          "text" : "Imagen 9.png",
+          "targetRectangle" : {
+            "y" : 230.2181396484375,
+            "x" : 299.1965942382812,
+            "width" : 848.4016723632812,
+            "height" : 798.7611694335938
           }
         }
       ],
@@ -604,7 +604,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "35584308901BEB980814379FF827EE4D"
+                    "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
                   }
                 ]
               }

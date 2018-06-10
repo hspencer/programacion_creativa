@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Proyecto Wordpress",
-          "targetRectangle" : {
-            "y" : 1000.523864746094,
-            "x" : 1574.31666015625,
-            "width" : 301.76,
-            "height" : 38
-          }
-        },
-        {
           "text" : "CODE IS POETRY",
           "targetRectangle" : {
             "y" : 477.7088503890709,
             "x" : 596.3499872303165,
             "width" : 740.6000268697736,
             "height" : 84
+          }
+        },
+        {
+          "text" : "Proyecto Wordpress",
+          "targetRectangle" : {
+            "y" : 1000.523864746094,
+            "x" : 1574.31666015625,
+            "width" : 301.76,
+            "height" : 38
           }
         }
       ],

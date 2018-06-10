@@ -370,12 +370,12 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Programación Creativa · (3\/3)",
+            "text" : "con Processing",
             "targetRectangle" : {
-              "y" : 248.1777193546295,
+              "y" : 632.5097658634186,
               "x" : 74.85168480873108,
-              "width" : 1221.12000128746,
-              "height" : 367.1999974250793
+              "width" : 298.1999999999999,
+              "height" : 50
             }
           },
           {
@@ -388,12 +388,12 @@ local_slide( {
             }
           },
           {
-            "text" : "con Processing",
+            "text" : "Programación Creativa · (3\/3)",
             "targetRectangle" : {
-              "y" : 632.5097658634186,
+              "y" : 248.1777193546295,
               "x" : 74.85168480873108,
-              "width" : 298.1999999999999,
-              "height" : 50
+              "width" : 1221.12000128746,
+              "height" : 367.1999974250793
             }
           }
         ],

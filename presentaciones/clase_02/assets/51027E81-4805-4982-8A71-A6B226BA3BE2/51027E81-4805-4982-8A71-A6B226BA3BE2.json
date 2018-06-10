@@ -355,21 +355,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Imagen 11.png",
-          "targetRectangle" : {
-            "y" : 215.8905487060547,
-            "x" : 290.07568359375,
-            "width" : 920.8384399414062,
-            "height" : 784.7539672851562
-          }
-        },
-        {
           "text" : "Estructura for bidimensional",
           "targetRectangle" : {
             "y" : 59.87498116493225,
             "x" : 67.24996972084045,
             "width" : 934.9200000000001,
             "height" : 84
+          }
+        },
+        {
+          "text" : "Imagen 11.png",
+          "targetRectangle" : {
+            "y" : 215.8905487060547,
+            "x" : 290.07568359375,
+            "width" : 920.8384399414062,
+            "height" : 784.7539672851562
           }
         }
       ],

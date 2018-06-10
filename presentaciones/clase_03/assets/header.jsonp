@@ -1,13 +1,13 @@
 local_header( {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-53-10 12:6:8",
+  "timestamp" : "2018-29-10 14:6:8",
   "loopSlideshow" : 0,
-  "filename" : "clase_03",
+  "filename" : "clase_03.key",
   "autoplayBuildDelay" : 2,
   "comment" : "",
-  "title" : "clase_03",
-  "showMode" : 1,
+  "title" : "clase_03.key",
+  "showMode" : 0,
   "creator" : "Apple Keynote 8.0.1",
   "slideList" : [
     "7217BD26-31C1-4E7E-8679-FAC8B276852A",

@@ -355,21 +355,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "point();",
-          "targetRectangle" : {
-            "y" : 59.87498116493225,
-            "x" : 67.24996972084045,
-            "width" : 245.49,
-            "height" : 84
-          }
-        },
-        {
           "text" : "Imagen 10.png",
           "targetRectangle" : {
             "y" : 289.6964721679688,
             "x" : 424.2210693359375,
             "width" : 1071.557861328125,
             "height" : 606.0121459960938
+          }
+        },
+        {
+          "text" : "point();",
+          "targetRectangle" : {
+            "y" : 59.87498116493225,
+            "x" : 67.24996972084045,
+            "width" : 245.49,
+            "height" : 84
           }
         }
       ],
