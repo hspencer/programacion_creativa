@@ -27,7 +27,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 2. [A Modern Prometeus](https://medium.com/processing-foundation/a-modern-prometheus-59aed94abe85)
 3. [Lista de tutoriales](http://p5art.tumblr.com/tutorials)
 
-## [Clase II]((https://hspencer.github.io/programacion_creativa/presentaciones/clase_02/index.html))
+## [Clase II](https://hspencer.github.io/programacion_creativa/presentaciones/clase_02/index.html)
 
 1. Variables o tipos de datos `boolean`, `int`, `float`, `color` repeticiones `for, while` y condicional `if()`
 2. Variables del entorno `mouseX`, `mouseY`, `millis(), second()`, etc.
@@ -42,7 +42,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 #### Encargo
 *Desarrollar un algoritmo que, a partir de reglas simples, desarrolle un dibujo de forma emergente*
 
-## [Clase III]((https://hspencer.github.io/programacion_creativa/presentaciones/clase_03/index.html))
+## [Clase III](https://hspencer.github.io/programacion_creativa/presentaciones/clase_03/index.html)
 
 1. Arreglos de datos `float[]`, `int[]`, etc.
 2. Objetos y su metáfora de programación `class{}`
