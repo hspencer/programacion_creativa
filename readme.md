@@ -1,5 +1,7 @@
 # Programación Creativa
 
+![mesh network](img/mesh.jpg)
+
 Este curso corresponde a una introducción al diseño de software como una herramienta de expresión artística construyendo obras visuales cinéticas o interactivas basadas en [Processing](https://processing.org). 
 
 Trataremos los fundamentos de la forma computacional y de la estructura de la programación gráfica en consonancia con principios matemáticos abstractos. Te familiarizarás con algoritmos básicos, geometría computacional y simulación cinemática además de los conceptos necesarios para construir programas. 
@@ -13,6 +15,8 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 - Integrar diferentes tecnologías y herramientas digitales para comunicar los proyectos de una manera novedosa.
 
 ## [Clase I](https://hspencer.github.io/programacion_creativa/presentaciones/clase_01/index.html)
+
+![diy](img/chords.jpg)
 
 1. Una breve historia, e introducción a Processing como entorno de desarrollo
 2. Dibujo, trazo y color `line()`, `rect()`, `ellipse()`, `triangle()`, `beginShape()`, `endShape()`, `vertex()`, `curveVertex()`, `bezierVertex()`
