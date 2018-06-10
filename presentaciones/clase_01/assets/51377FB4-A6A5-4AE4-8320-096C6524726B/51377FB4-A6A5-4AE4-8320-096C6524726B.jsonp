@@ -4,7 +4,7 @@ local_slide( {
     "assets" : {
       "C8F02972EE5E7B1E5A3EF5E4A7BFC461" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -30,9 +30,23 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
+      "58682BFCD26DE11687C1622CA4531DFA" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/51377FB4-A6A5-4AE4-8320-096C6524726B.pdf"
+        },
+        "width" : 2606,
+        "height" : 1468
+      },
       "CD4A03E632FAE9C772392FFE87F60BE8" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -46,7 +60,7 @@ local_slide( {
       },
       "71D2EB435A32988D3E45256DC49D607F" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -666,7 +680,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "71D2EB435A32988D3E45256DC49D607F"
+                      "texture" : "58682BFCD26DE11687C1622CA4531DFA"
                     }
                   ]
                 }

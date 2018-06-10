@@ -2,9 +2,9 @@ local_slide( {
   "name" : "2C71ABF8-D5B7-48C9-A869-DA8447750EDD",
   "json" : {
     "assets" : {
-      "5BFD7C46D2905B68986827DD7408E23A" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -15,34 +15,6 @@ local_slide( {
         },
         "width" : 1920,
         "height" : 1080
-      },
-      "3CDBA4F63DF77DF6AC6D581A872B45FF" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/2C71ABF8-D5B7-48C9-A869-DA8447750EDD.pdf"
-        },
-        "width" : 544,
-        "height" : 99
-      },
-      "BA34649C9A1D244E73944AA6AB4541F6" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/2C71ABF8-D5B7-48C9-A869-DA8447750EDD.pdf"
-        },
-        "width" : 1606,
-        "height" : 1083
       },
       "B67190F9CDAE49455CA7A03CA26172FA" : {
         "type" : "texture",
@@ -58,9 +30,37 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "BA34649C9A1D244E73944AA6AB4541F6" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/2C71ABF8-D5B7-48C9-A869-DA8447750EDD.pdf"
+        },
+        "width" : 1606,
+        "height" : 1083
+      },
+      "3CDBA4F63DF77DF6AC6D581A872B45FF" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/2C71ABF8-D5B7-48C9-A869-DA8447750EDD.pdf"
+        },
+        "width" : 544,
+        "height" : 99
+      },
+      "AEE254F355BFF3F46CA78F6284DFAAE3" : {
+        "type" : "texture",
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -254,7 +254,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "5BFD7C46D2905B68986827DD7408E23A"
+                      "texture" : "AEE254F355BFF3F46CA78F6284DFAAE3"
                     },
                     {
                       "animations" : [
@@ -356,18 +356,9 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "pasted-image.tiff",
-            "targetRectangle" : {
-              "y" : -14.92108356337338,
-              "x" : 158.9217391445667,
-              "width" : 1602.156521739131,
-              "height" : 1080
-            }
-          },
-          {
             "text" : "DBN - Design by numbers",
             "targetRectangle" : {
-              "y" : 948.170897766357,
+              "y" : 948.1708984375,
               "x" : 1332.9140625,
               "width" : 351.48,
               "height" : 35
@@ -376,10 +367,19 @@ local_slide( {
           {
             "text" : "ACG - Aesthetics & Computation Group, MIT 1990s",
             "targetRectangle" : {
-              "y" : 983.170897766357,
+              "y" : 983.1708984375,
               "x" : 1332.9140625,
-              "width" : 549.347,
+              "width" : 549.3470000000002,
               "height" : 70
+            }
+          },
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : -14.92108345031738,
+              "x" : 158.9217376708984,
+              "width" : 1602.156494140625,
+              "height" : 1080
             }
           }
         ],
@@ -692,8 +692,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 961.9217391445668,
-                      "pointY" : 526.5789164366266
+                      "pointX" : 961.9217376708984,
+                      "pointY" : 526.5789165496826
                     },
                     "width" : 1606,
                     "sublayerTransform" : [
@@ -758,8 +758,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 801.0782608554332,
-                          "pointY" : 540.4210835633734
+                          "pointX" : 801.0782623291016,
+                          "pointY" : 540.4210834503174
                         },
                         "width" : 1606,
                         "sublayerTransform" : [
@@ -874,7 +874,7 @@ local_slide( {
                     "scale" : 1,
                     "position" : {
                       "pointX" : 1599.2890625,
-                      "pointY" : 900.045897766357
+                      "pointY" : 900.0458984375
                     },
                     "width" : 544,
                     "sublayerTransform" : [
@@ -921,7 +921,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.1485151515151515,
-                        "textBaseline" : 0.9454837018432578,
+                        "textBaseline" : 0.9454837086224797,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -945,8 +945,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 276.7109375000002,
-                          "pointY" : 152.954102233643
+                          "pointX" : 276.7109375,
+                          "pointY" : 152.9541015625
                         },
                         "width" : 544,
                         "sublayerTransform" : [

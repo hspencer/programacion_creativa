@@ -16,9 +16,9 @@ local_slide( {
         "width" : 301,
         "height" : 34
       },
-      "9FD7C3894B84E5F8F5CE173EA0481CC6" : {
+      "DCE2D74B95531636961B34D80806BF69" : {
         "type" : "texture",
-        "index" : 1,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -27,8 +27,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/78035311-30E0-4EA3-B1EB-02414622141D.pdf"
         },
-        "width" : 923,
-        "height" : 66
+        "width" : 1920,
+        "height" : 1080
       },
       "B67190F9CDAE49455CA7A03CA26172FA" : {
         "type" : "texture",
@@ -44,9 +44,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "6E81018F99B713C88C6F69D0B0CCDEF6" : {
+      "1BC1248774502F2927ED282B763D58B8" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -55,10 +55,10 @@ local_slide( {
         "url" : {
           "native" : "assets\/78035311-30E0-4EA3-B1EB-02414622141D.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 727,
+        "height" : 52
       },
-      "6D2B058C3130E26CF80B38D0812CB320" : {
+      "1835918DEA41CB9FA07064E2623B5F05" : {
         "type" : "texture",
         "index" : 0,
         "assetRequest" : {
@@ -335,7 +335,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "6E81018F99B713C88C6F69D0B0CCDEF6"
+                      "texture" : "DCE2D74B95531636961B34D80806BF69"
                     }
                   ]
                 }
@@ -358,19 +358,19 @@ local_slide( {
           {
             "text" : "Proyecto Wordpress",
             "targetRectangle" : {
-              "y" : 1000.523849874816,
-              "x" : 1574.316705709274,
+              "y" : 1000.523864746094,
+              "x" : 1574.31666015625,
               "width" : 301.76,
-              "height" : 38.00000000000011
+              "height" : 38
             }
           },
           {
             "text" : "CODE IS POETRY",
             "targetRectangle" : {
-              "y" : 485.75,
-              "x" : 496.4099838709831,
-              "width" : 944.2800345468522,
-              "height" : 108
+              "y" : 477.7088503890709,
+              "x" : 596.3499872303165,
+              "width" : 740.6000268697736,
+              "height" : 84
             }
           }
         ],
@@ -605,7 +605,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "6D2B058C3130E26CF80B38D0812CB320"
+                      "texture" : "1835918DEA41CB9FA07064E2623B5F05"
                     }
                   ]
                 }
@@ -683,10 +683,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 842.125,
-                      "pointY" : 466.125
+                      "pointX" : 421.2960201239742,
+                      "pointY" : 478.7088501506523
                     },
-                    "width" : 923,
+                    "width" : 727,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -713,7 +713,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 66,
+                    "height" : 52,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -730,8 +730,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.6790909090909091,
-                        "textBaseline" : 0.9465146209254409,
+                        "textXHeight" : 0.6825,
+                        "textBaseline" : 0.947477368310239,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -755,10 +755,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 579.875,
-                          "pointY" : 113.875
+                          "pointX" : 902.7039798760258,
+                          "pointY" : 72.29114984934768
                         },
-                        "width" : 923,
+                        "width" : 727,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -785,14 +785,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 66,
+                        "height" : 52,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "9FD7C3894B84E5F8F5CE173EA0481CC6"
+                      "texture" : "1BC1248774502F2927ED282B763D58B8"
                     }
                   ]
                 }
@@ -870,8 +870,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 1625.405441060837,
-                      "pointY" : 1004.898849874816
+                      "pointX" : 1625.405395507812,
+                      "pointY" : 1004.898864746094
                     },
                     "width" : 301,
                     "sublayerTransform" : [
@@ -918,7 +918,7 @@ local_slide( {
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
                         "textXHeight" : 0.4687058823529412,
-                        "textBaseline" : 0.7758775712836422,
+                        "textBaseline" : 0.7758780086741728,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -942,8 +942,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 250.5945589391631,
-                          "pointY" : 35.10115012518429
+                          "pointX" : 250.5946044921875,
+                          "pointY" : 35.10113525390625
                         },
                         "width" : 301,
                         "sublayerTransform" : [

@@ -2,9 +2,51 @@ local_slide( {
   "name" : "0CA2E675-7917-43B5-B7EC-70BF84A30F8E",
   "json" : {
     "assets" : {
-      "1835918DEA41CB9FA07064E2623B5F05" : {
+      "C25C25FF361FB24FC35F6B120D2F252D" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/0CA2E675-7917-43B5-B7EC-70BF84A30F8E.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
+      },
+      "91338EF396C20758563CD9C8C2FEEE19" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/0CA2E675-7917-43B5-B7EC-70BF84A30F8E.pdf"
+        },
+        "width" : 778,
+        "height" : 1082
+      },
+      "1B070BB4BD9971D9067EECBEC1799278" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/0CA2E675-7917-43B5-B7EC-70BF84A30F8E.pdf"
+        },
+        "width" : 285,
+        "height" : 66
+      },
+      "DCE2D74B95531636961B34D80806BF69" : {
+        "type" : "texture",
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -30,51 +72,9 @@ local_slide( {
         "width" : 785,
         "height" : 1083
       },
-      "1B070BB4BD9971D9067EECBEC1799278" : {
+      "1835918DEA41CB9FA07064E2623B5F05" : {
         "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/0CA2E675-7917-43B5-B7EC-70BF84A30F8E.pdf"
-        },
-        "width" : 285,
-        "height" : 66
-      },
-      "91338EF396C20758563CD9C8C2FEEE19" : {
-        "type" : "texture",
-        "index" : 2,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/0CA2E675-7917-43B5-B7EC-70BF84A30F8E.pdf"
-        },
-        "width" : 778,
-        "height" : 1082
-      },
-      "6E81018F99B713C88C6F69D0B0CCDEF6" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/0CA2E675-7917-43B5-B7EC-70BF84A30F8E.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
-      },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
-        "type" : "texture",
-        "index" : 0,
+        "index" : 5,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -268,7 +268,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "6E81018F99B713C88C6F69D0B0CCDEF6"
+                      "texture" : "DCE2D74B95531636961B34D80806BF69"
                     },
                     {
                       "animations" : [
@@ -372,18 +372,18 @@ local_slide( {
           {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
-              "y" : 3.552713678800501e-15,
-              "x" : 778.562744140625,
-              "width" : 774.9000244140625,
+              "y" : 4.332036951382179e-08,
+              "x" : -1.316580295562744,
+              "width" : 781.4584350585938,
               "height" : 1080
             }
           },
           {
             "text" : "pasted-image.tiff",
             "targetRectangle" : {
-              "y" : 4.332036951382179e-08,
-              "x" : -1.316580295562744,
-              "width" : 781.4584350585938,
+              "y" : 3.552713678800501e-15,
+              "x" : 778.562744140625,
+              "width" : 774.9000244140625,
               "height" : 1080
             }
           },

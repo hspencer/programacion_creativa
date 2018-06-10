@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "CD6A1FD5D403CC41296B736D487E1DE3" : {
+    "24179A3F0080CA549324B13B9E01755D" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -11,8 +11,8 @@
       "url" : {
         "native" : "assets\/72CED38C-F586-4DE5-9945-ABCA8A066C6C.pdf"
       },
-      "width" : 1159,
-      "height" : 297
+      "width" : 223,
+      "height" : 43
     },
     "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
       "type" : "texture",
@@ -42,21 +42,7 @@
       "width" : 298,
       "height" : 44
     },
-    "24179A3F0080CA549324B13B9E01755D" : {
-      "type" : "texture",
-      "index" : 3,
-      "assetRequest" : {
-        "type" : "slide",
-        "state" : "contents",
-        "slide" : "none"
-      },
-      "url" : {
-        "native" : "assets\/72CED38C-F586-4DE5-9945-ABCA8A066C6C.pdf"
-      },
-      "width" : 223,
-      "height" : 43
-    },
-    "6A4E5AE674634A6E213F4A83D6718D2F" : {
+    "58682BFCD26DE11687C1622CA4531DFA" : {
       "type" : "texture",
       "index" : 4,
       "assetRequest" : {
@@ -70,7 +56,7 @@
       "width" : 1920,
       "height" : 1080
     },
-    "B8A4E87DA09762B2002C91EB895D6BC5" : {
+    "351C9821167DBBAF63BE2DD9E6BB36C8" : {
       "type" : "texture",
       "index" : 5,
       "assetRequest" : {
@@ -83,6 +69,20 @@
       },
       "width" : 1920,
       "height" : 1080
+    },
+    "F1DE44EA0D0B79DDE40AABE7A08FAE17" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/72CED38C-F586-4DE5-9945-ABCA8A066C6C.pdf"
+      },
+      "width" : 1205,
+      "height" : 319
     }
   },
   "events" : [
@@ -266,7 +266,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "6A4E5AE674634A6E213F4A83D6718D2F"
+                    "texture" : "58682BFCD26DE11687C1622CA4531DFA"
                   },
                   {
                     "animations" : [
@@ -347,7 +347,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "B8A4E87DA09762B2002C91EB895D6BC5"
+                    "texture" : "351C9821167DBBAF63BE2DD9E6BB36C8"
                   }
                 ]
               }
@@ -368,11 +368,20 @@
       ],
       "accessibility" : [
         {
-          "text" : "Programación Creativa",
+          "text" : "@hspencer",
+          "targetRectangle" : {
+            "y" : 907.9143679141998,
+            "x" : 1623.598315191269,
+            "width" : 221.55,
+            "height" : 50
+          }
+        },
+        {
+          "text" : "Programación Creativa · (1\/3)",
           "targetRectangle" : {
             "y" : 248.1777193546295,
-            "x" : 74.8516848369951,
-            "width" : 1207.080001046062,
+            "x" : 74.85168480873108,
+            "width" : 1217.70000128746,
             "height" : 367.1999974250793
           }
         },
@@ -380,17 +389,8 @@
           "text" : "con Processing",
           "targetRectangle" : {
             "y" : 632.5097658634186,
-            "x" : 74.85168483699508,
+            "x" : 74.85168480873108,
             "width" : 298.1999999999999,
-            "height" : 50
-          }
-        },
-        {
-          "text" : "@hspencer",
-          "targetRectangle" : {
-            "y" : 907.9143595271526,
-            "x" : 1623.59831502351,
-            "width" : 221.55,
             "height" : 50
           }
         }
@@ -704,10 +704,10 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 651.3516845985765,
-                    "pointY" : 340.6777191162109
+                    "pointX" : 674.3516845703125,
+                    "pointY" : 351.6777191162109
                   },
-                  "width" : 1159,
+                  "width" : 1205,
                   "sublayerTransform" : [
                     1,
                     0,
@@ -734,7 +734,7 @@
                   },
                   "opacity" : 1,
                   "edgeAntialiasingMask" : 251658240,
-                  "height" : 297,
+                  "height" : 319,
                   "hidden" : false,
                   "anchorPoint" : {
                     "pointX" : 0.5,
@@ -751,8 +751,8 @@
                     ],
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
-                      "textXHeight" : 0.3109090909090909,
-                      "textBaseline" : 0.9859180024978689,
+                      "textXHeight" : 0.2894670846394984,
+                      "textBaseline" : 0.9179236574980159,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -776,10 +776,10 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 585.6483154014235,
-                        "pointY" : 244.3222808837891
+                        "pointX" : 608.6483154296875,
+                        "pointY" : 255.3222808837891
                       },
-                      "width" : 1159,
+                      "width" : 1205,
                       "sublayerTransform" : [
                         1,
                         0,
@@ -806,14 +806,14 @@
                       },
                       "opacity" : 1,
                       "edgeAntialiasingMask" : 0,
-                      "height" : 297,
+                      "height" : 319,
                       "hidden" : false,
                       "anchorPoint" : {
                         "pointX" : 0.5,
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "CD6A1FD5D403CC41296B736D487E1DE3"
+                    "texture" : "F1DE44EA0D0B79DDE40AABE7A08FAE17"
                   }
                 ]
               }
@@ -891,7 +891,7 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 220.8516845985765,
+                    "pointX" : 220.8516845703125,
                     "pointY" : 651.509765625
                   },
                   "width" : 298,
@@ -963,7 +963,7 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 151.1483154014235,
+                        "pointX" : 151.1483154296875,
                         "pointY" : 33.490234375
                       },
                       "width" : 298,
@@ -1078,8 +1078,8 @@
                   "rotation" : 0,
                   "scale" : 1,
                   "position" : {
-                    "pointX" : 183.3516844025539,
-                    "pointY" : 926.414359288734
+                    "pointX" : 183.3516845703125,
+                    "pointY" : 926.4143676757812
                   },
                   "width" : 223,
                   "sublayerTransform" : [
@@ -1126,7 +1126,7 @@
                     "texturedRectangle" : {
                       "singleTextureOpacity" : 1,
                       "textXHeight" : 0.4952093023255814,
-                      "textBaseline" : 0.7872172833718482,
+                      "textBaseline" : 0.7872174784194591,
                       "isBackgroundTexture" : true,
                       "isVerticalText" : false,
                       "textColor" : [
@@ -1150,8 +1150,8 @@
                       "rotation" : 0,
                       "scale" : 1,
                       "position" : {
-                        "pointX" : 1662.648315597446,
-                        "pointY" : 32.58564071126602
+                        "pointX" : 1662.648315429688,
+                        "pointY" : 32.58563232421875
                       },
                       "width" : 223,
                       "sublayerTransform" : [

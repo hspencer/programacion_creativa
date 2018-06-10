@@ -2,9 +2,9 @@ local_slide( {
   "name" : "161C0FA1-A1C7-4D2C-8528-38B23230E427",
   "json" : {
     "assets" : {
-      "F8F84E5BB7F6731DEEFAA492C0CAC4EF" : {
+      "0E8C6B76B56B44282B13CE610BF4416F" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/161C0FA1-A1C7-4D2C-8528-38B23230E427.pdf"
         },
-        "width" : 1193,
-        "height" : 942
+        "width" : 362,
+        "height" : 31
       },
       "88B9FD0A46D708E3CE57B3F30D5101CB" : {
         "type" : "texture",
@@ -30,9 +30,9 @@ local_slide( {
         "width" : 492,
         "height" : 32
       },
-      "D8F220A8B1057979BDC67137338B2D36" : {
+      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
         "type" : "texture",
-        "index" : 6,
+        "index" : 0,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -44,9 +44,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "C25C25FF361FB24FC35F6B120D2F252D" : {
+      "B542D49094585CC67088CEF4E275C672" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 6,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -86,9 +86,9 @@ local_slide( {
         "width" : 565,
         "height" : 980
       },
-      "0E8C6B76B56B44282B13CE610BF4416F" : {
+      "F8F84E5BB7F6731DEEFAA492C0CAC4EF" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -97,8 +97,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/161C0FA1-A1C7-4D2C-8528-38B23230E427.pdf"
         },
-        "width" : 362,
-        "height" : 31
+        "width" : 1193,
+        "height" : 942
       }
     },
     "events" : [
@@ -363,7 +363,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "D8F220A8B1057979BDC67137338B2D36"
+                      "texture" : "B542D49094585CC67088CEF4E275C672"
                     }
                   ]
                 }
@@ -393,6 +393,15 @@ local_slide( {
             }
           },
           {
+            "text" : "El Golem film de Paul Wegener, 1920",
+            "targetRectangle" : {
+              "y" : 1007.630737304688,
+              "x" : 57.77432632446289,
+              "width" : 492.652,
+              "height" : 35
+            }
+          },
+          {
             "text" : "droppedImage.tiff",
             "targetRectangle" : {
               "y" : 48.60889434814453,
@@ -408,15 +417,6 @@ local_slide( {
               "x" : 1240.914916992188,
               "width" : 561.6572875976562,
               "height" : 977.7755737304688
-            }
-          },
-          {
-            "text" : "El Golem film de Paul Wegener, 1920",
-            "targetRectangle" : {
-              "y" : 1007.630737304688,
-              "x" : 57.77432632446289,
-              "width" : 492.652,
-              "height" : 35
             }
           }
         ],
@@ -651,10 +651,126 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "C25C25FF361FB24FC35F6B120D2F252D"
+                      "texture" : "5BA6DF7ACEF516F7DAB78587CF30CE20"
                     }
                   ]
                 }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 960,
+                  "pointY" : 540
+                },
+                "width" : 1920,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 960,
+                  "pointY" : 540
+                },
+                "width" : 1920,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+
               ]
             },
             {

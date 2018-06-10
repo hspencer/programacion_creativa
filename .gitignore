@@ -6,3 +6,7 @@ application.windows32
 application.windows64
 application.macosx
 .key
+presentaciones/clase_01.key
+presentaciones/clase_02.key
+presentaciones/clase_03.key
+presentaciones/*.key

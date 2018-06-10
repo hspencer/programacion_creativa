@@ -1,0 +1,50 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-53-10 12:6:8",
+  "loopSlideshow" : 0,
+  "filename" : "clase_03",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "clase_03",
+  "showMode" : 1,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "7217BD26-31C1-4E7E-8679-FAC8B276852A",
+    "A2BD82D8-4568-4F5B-A209-B45F8D6B22B4",
+    "F18C503C-9742-4569-80AF-B3410194B9C0",
+    "B8C44DF9-8416-4F26-A2C2-D2A521E1E584",
+    "51FDFAEE-1255-4ED5-B723-7ADF6A4BEBAF",
+    "1908C8ED-5508-4508-8BB8-61287EAD21D2",
+    "FA20ABFC-E715-4569-871B-86F6A186BF15",
+    "4AB0BE6D-FA55-41AF-9329-2EE2D1DEE064",
+    "2A47042B-AC3D-495C-A55E-4287C9392B31",
+    "5C5EFE4F-7880-4D70-8AC6-A798C1E8B719"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 10,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Cera-Regular",
+    "SourceSansPro-Bold",
+    "SourceSansPro-ExtraLight",
+    "Helvetica",
+    "SourceSansPro-Light",
+    "Helvetica-Light",
+    "Cera-Medium",
+    "SourceSansPro-Semibold",
+    "GillSans",
+    "SourceSansPro-Regular",
+    "Cera-Black",
+    "Cera-Light",
+    "HelveticaNeue",
+    "Cera-Bold",
+    "LucidaGrande"
+  ]
+}

@@ -344,8 +344,8 @@ local_slide( {
           {
             "text" : "Imagen 9.png",
             "targetRectangle" : {
-              "y" : 19.68749998586777,
-              "x" : 20.50626500749826,
+              "y" : 19.6875,
+              "x" : 20.50626564025879,
               "width" : 1149.527709960938,
               "height" : 1040.625
             }
@@ -660,8 +660,8 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 597.0062650074983,
-                      "pointY" : 541.6874999858678
+                      "pointX" : 597.0062656402588,
+                      "pointY" : 541.6875
                     },
                     "width" : 1153,
                     "sublayerTransform" : [
@@ -726,8 +726,8 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 574.9937349925017,
-                          "pointY" : 520.3125000141322
+                          "pointX" : 574.9937343597412,
+                          "pointY" : 520.3125
                         },
                         "width" : 1153,
                         "sublayerTransform" : [
