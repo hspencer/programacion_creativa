@@ -12,7 +12,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 - Programar animaciones y efectos visuales 
 - Integrar diferentes tecnologías y herramientas digitales para comunicar los proyectos de una manera novedosa.
 
-## Clase I
+## [Clase I](presentaciones/clase_01/index.html)
 
 1. Una breve historia, e introducción a Processing como entorno de desarrollo
 2. Dibujo, trazo y color `line()`, `rect()`, `ellipse()`, `triangle()`, `beginShape()`, `endShape()`, `vertex()`, `curveVertex()`, `bezierVertex()`
