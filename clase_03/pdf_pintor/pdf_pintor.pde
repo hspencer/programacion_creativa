@@ -12,7 +12,7 @@ float margenAbajo   = 100;
 float escala;
 
 void setup() {
-  size(545, 779, PDF, "tarea4.pdf");
+  size(545, 779, PDF, "interpretation.pdf");
  
   // construyo los objetos
   foto = loadImage("paisaje.jpg");
@@ -21,7 +21,7 @@ void setup() {
 
   // definiciones plásticas
   textFont(font, 8);
-  //colorMode(HSB, 255);
+  colorMode(HSB, 255);
   strokeCap(SQUARE);
 
   float ancho = width - (margenIzquierda + margenDerecha);
@@ -59,4 +59,3 @@ void printCode() {
     interlinea += 11;
   }
 }
-

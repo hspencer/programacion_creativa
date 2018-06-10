@@ -1,10 +1,12 @@
 Giro g;
 
 void setup(){
-  size(300,300);
+  fullScreen();
+  // pixelDensity(2);
   g = new Giro(width/2, height/2, -PI);
-  background(#ddddcc);
-  smooth();
+  background(255);
+  strokeWeight(5);
+  stroke(0, 100);
 }
 
 void draw(){
@@ -12,10 +14,10 @@ void draw(){
 }
 
 class Giro{
-  float t; // ‡ngulo
+  float t; // Ã¡ngulo
   float r; // radio  
   float seed; // noise seed
-  float x, y; // posici—n
+  float x, y; // posiciÃ³n
 
 
   Giro(float x, float y, float t){
@@ -30,7 +32,7 @@ class Giro{
 
   void gira(){
     
-    noiseSeed((int)seed); //para que cada objeto "Giro" sea œnico
+    noiseSeed((int)seed); //para que cada objeto "Giro" sea ï¿½nico
     
          // noise(millis()/ zoom ) * amplificacion
          
@@ -49,7 +51,7 @@ class Giro{
     }
     popMatrix();
     
-    // actualizaci—n de la posici—n segœn identidad circular 
+    // actualizaciÃ³n de la posiciÃ³n segÃºn identidad circular 
     x += cos(t) * r;
     y += sin(t) * r;
 
@@ -61,5 +63,5 @@ class Giro{
 }
 
 void keyPressed(){
-background(#ddddcc);
+background(255);
 }

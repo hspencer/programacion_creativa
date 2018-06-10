@@ -1,3 +1,10 @@
+/*
+
+ejemplo de máscara de transparencia (o canal alfa)
+generado de forma programática y asignado dinámicamente
+a un mapa de bits
+
+*/
 
 int[] g;
 PImage monalisa;
@@ -27,7 +34,7 @@ void actualizarMascara(){
   otraTela.background(255);
   otraTela.fill(0);
   otraTela.ellipse(width/2, height/2, diam, diam);
-  otraTela.filter(BLUR, 5);
+  otraTela.filter(BLUR, 15);
   otraTela.endDraw(); // necesarios para declarar el fin del dibujo en la otra tela
   veloSobreMonalisa.mask(otraTela);
 }

@@ -1,17 +1,15 @@
 /*
 croquera simple
 por Herbert Spencer
-e[ad] Escuela de Arquitectura y Diseño
 */
 
-//definir una tipografía
 PFont verdana;
 
 void setup(){
   size(525, 378);
   verdana = createFont("sans-serif", 12);
   textFont(verdana);
-  background(#DDDDCC);
+  background(255);
   smooth();
   fill(0,190);
   text("pulsa 'ESPACIO' para borrar, 's' para salvar el dibujo", 10, 365);
@@ -39,4 +37,3 @@ void keyPressed(){
     save("croquis.jpg");
   }
 }
-

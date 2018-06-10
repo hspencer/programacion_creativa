@@ -1,12 +1,12 @@
 /**
-*     Persecusión de Puntos
-*     (introduccón a los arreglos, Imagen Escrita, Abril 2012)
-*     e[ad] Escuela de Arquitectura y Diseño PUCV
-*
-*/
+ *     Persecusión de Puntos
+ *     (introduccón a los arreglos)
+ *     e[ad] Escuela de Arquitectura y Diseño PUCV
+ *
+ */
 
 float[][] coords;   // arreglo bidimensional de coordenadas x e y
-int numDots = 222;  // numero de puntos
+int numDots = 30;  // numero de puntos
 float c = 0.01;     // constante de "suavizado" (ver abajo c´mo se utiliza)
 
 void setup() {
@@ -20,13 +20,12 @@ void setup() {
     coords[i][0] = random(width);   // [i][0] para los valores en x
     coords[i][1] = random(height);  // [i][1] para los valores en 7
   }
-  smooth();
+
   background(255);
+  strokeWeight(3);
 }
 
 void draw() {
-
-
   for (int i = 0; i < numDots; i++) {
     // para cada uno de los puntos (o valores del arreglo)...
 
@@ -63,4 +62,3 @@ void keyPressed() {
     stroke(0, 60);
   }
 }
-
