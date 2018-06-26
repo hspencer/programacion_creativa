@@ -1,16 +1,14 @@
 /**
 
 Pelota Feliz
-
 Herbert Spencer - 2008
-
 Esta pelota sigue al círculo y cuando llega, se pone feliz
 */
 
 
 float pelotaX, pelotaY; // las coordenadas de la pelota
 float difX, difY; // la diferencia con el círculo
-float ROCE = 0.051; // lo que le cuesta avanzar
+float ROCE = .025; // lo que le cuesta avanzar
 boolean feliz = false; // no es feliz, por ahora
 
 void setup(){
@@ -19,9 +17,9 @@ void setup(){
   // nótese que puedo inicializar los valores del mouse también
   pelotaX = mouseX = width/2;
   pelotaY = mouseY = height/2;
-  
+  // frameRate(2);
   noCursor(); // sin cursor
-  smooth(); 
+  //smooth(); 
 }
 
 void draw(){
@@ -33,6 +31,7 @@ void draw(){
   difY = mouseY - pelotaY;
   
   // defina la posición de la pelota añadiéndole roce
+  // pelotaX = pelotaX + (difX * ROCE);
   pelotaX += difX * ROCE;
   pelotaY += difY * ROCE;
   

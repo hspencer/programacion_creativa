@@ -4,9 +4,9 @@ void trazo(float x, float y, color c, float spacer) {
   float s = saturation(c);
   float b = brightness(c);
 
-  int numStrokes = round(map(b, 0, 255, 20, 0));
+  int numStrokes = round(map(b, 0, 255, 30, 0));
   float strokeRotation = map(h, 0, 255, 0, -HALF_PI);
-  float strokeLenght = map(b, 0, 255, spacer*2, spacer/2);
+  float strokeLength = map(b, 0, 255, spacer/2, 0);
   
   color n = color(h, s + 10, b);
   stroke(n);
@@ -23,11 +23,11 @@ void trazo(float x, float y, color c, float spacer) {
      float nY = random(-spacer/3, spacer/3); 
      
      beginShape();
-     vertex(-spacer + nX, 0 + nY);
-     vertex(-spacer + nX, 0 + nY);
-     vertex(nX, nY - s);
-     vertex(spacer + nX, nY);
-     vertex(spacer + nX, nY);
+     curveVertex(-strokeLength + nX, 0 + nY);
+     curveVertex(-strokeLength + nX, 0 + nY);
+     curveVertex(nX, nY - (s/20.0)/strokeLength);
+     curveVertex(strokeLength + nX, nY);
+     curveVertex(strokeLength + nX, nY);
      endShape();
     }
   }
