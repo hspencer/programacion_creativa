@@ -25,11 +25,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 
 #### Encargo
 
-*A partir del [ejemplo visto en clase](clase_02/ejemplo_05_dibujo) explorar nuevas formas de aumentar el trazo del dibujo. A partir de los valores `mouseX, mouseY, pmouseX, pmouseY` podemos deducir velocidad y ángulo entre otras cualidades. Este trabajo es ocasión de:*
-
-- *construir una función personalizada que reemplace `line(mouseX, mouseY, pmouseX, pmouseY)`*
-- *utilizar la repetición `for()` para construir elementos más complejos*
-- *interpretar el input del usuario de forma creativa. Por ejemplo, la función `atan2()` permite obtener el ángulo entre la posición previa y la actual del mouse.*
+*Desde las funciones de dibujo (formas y colores) diseñar una forma dinámica para dar cuenta del paso del tiempo.*
 
 ### Referencias
 1. [Processing](http://processing.org)
@@ -49,7 +45,11 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 
 
 #### Encargo
-*Desarrollar un algoritmo que, a partir de reglas simples, desarrolle un dibujo de forma emergente*
+*A partir del [ejemplo visto en clase](clase_02/ejemplo_05_dibujo) explorar nuevas formas de aumentar el trazo del dibujo. A partir de los valores `mouseX, mouseY, pmouseX, pmouseY` podemos deducir velocidad y ángulo entre otras cualidades. Este trabajo es ocasión de:*
+
+- *construir una función personalizada que reemplace `line(mouseX, mouseY, pmouseX, pmouseY)`*
+- *utilizar la repetición `for()` para construir elementos más complejos*
+- *interpretar el input del usuario de forma creativa. Por ejemplo, la función `atan2()` permite obtener el ángulo entre la posición previa y la actual del mouse.*
 
 ## [Clase III](https://hspencer.github.io/programacion_creativa/presentaciones/clase_03/index.html) ~ [↓pdf](https://hspencer.github.io/programacion_creativa/presentaciones/clase_03.pdf)
 
