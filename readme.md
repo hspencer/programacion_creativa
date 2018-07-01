@@ -29,7 +29,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 
 - *construir una función personalizada que reemplace `line(mouseX, mouseY, pmouseX, pmouseY)`*
 - *utilizar la repetición `for()` para construir elementos más complejos*
-- *interpretar el input del usuario de forma creativa*
+- *interpretar el input del usuario de forma creativa. Por ejemplo, la función `atan2()` permite obtener el ángulo entre la posición previa y la actual del mouse.*
 
 ### Referencias
 1. [Processing](http://processing.org)
@@ -63,7 +63,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 
 ### Referencias
 1. [Process Compendium](http://www.creativeapplications.net/processing/process-compendium-processing/), [documento completo](https://drive.google.com/file/d/0B9h469--G5OwOGVfVmUxZUQ5VzA/view)
-2. [Process Compendium, Casey Reas](https://vimeo.com/39078622)(video)
+2. [Process Compendium, Casey Reas] (https://vimeo.com/39078622)(video)
 
 
 #### Encargo
