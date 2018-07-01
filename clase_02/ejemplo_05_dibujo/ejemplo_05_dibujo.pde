@@ -2,7 +2,7 @@ void setup() {
   //fullScreen();
   size(800, 500);
   background(#FAECBD);
-  stroke(#403202, 150);
+  stroke(#403202);
 }
 
 void draw() {
@@ -24,5 +24,4 @@ void keyPressed() {
     /* c de "clear" */
    background(#FAECBD);
   }
-  
 }
