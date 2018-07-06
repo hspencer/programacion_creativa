@@ -1,6 +1,6 @@
 /**
  * <strong>Pelotas Emergentes</strong><br />
- * Modificaci&oacute;n del c&oacute;digo: <a href="http://processing.org/learning/topics/bouncybubbles.html">http://processing.org/learning/topics/bouncybubbles.html</a><br />
+ * Modificación del código: <a href="http://processing.org/learning/topics/bouncybubbles.html">http://processing.org/learning/topics/bouncybubbles.html</a><br />
  * En cada choque de 2 pelotas nace una tercera que se agrega al arreglo de pelotas<br />
  * presione ESPACIO para prender y apagar la visualizaci&oacute;n de choques
  */
@@ -26,7 +26,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(0);
   for (int i = 0; i < temp; i++) {
     balls[i].collide();
     balls[i].move();
