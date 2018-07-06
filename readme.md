@@ -63,11 +63,11 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 
 ### Referencias
 1. [Process Compendium](http://www.creativeapplications.net/processing/process-compendium-processing/), [documento completo](https://drive.google.com/file/d/0B9h469--G5OwOGVfVmUxZUQ5VzA/view)
-2. [Process Compendium, Casey Reas] (https://vimeo.com/39078622)(video)
+2. [Process Compendium, Casey Reas](https://vimeo.com/39078622) (video)
 
 
 #### Encargo
-*Desarrollar un juego simple*
+*Se trata de un proyecto individual libre que incorpore los conceptos como ciclos `for()` anidados (2D o más), interactividad `mousePressed()`, `keyPressed()`, y/o objetos `class{}`. La entrega final se realiza en el Google Drive Compartido.*
 
 ### Para continuar el camino
 - [P5.js](https://p5js.org)
