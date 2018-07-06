@@ -70,5 +70,7 @@ Trataremos los fundamentos de la forma computacional y de la estructura de la pr
 *Se trata de un proyecto individual libre que incorpore los conceptos como ciclos `for()` anidados (2D o más), interactividad `mousePressed()`, `keyPressed()`, y/o objetos `class{}`. La entrega final se realiza en el Google Drive Compartido.*
 
 ### Para continuar el camino
-- [P5.js](https://p5js.org)
-- [Open Frameworks](https://openframeworks.cc/)
+- [Processing: a programming handbook for visual designers
+and artists)](http://cmuems.com/resources/processing_a_handbook.pdf), libro en formato PDF
+- [P5.js](https://p5js.org), Processing portado a javascript para trabajar en el browser
+- [Open Frameworks](https://openframeworks.cc/), Proyecto en C++ similar a Processing
