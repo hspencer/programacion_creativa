@@ -12,7 +12,7 @@ int count, temp;            // 'count' cuenta las pelotas y 'temp' se usa para l
                             // ocurre que cada vez que 2 pelotas chocan, count++
                             // si se usa 'count' en el ciclo 'for' que calcula colisiones
                             // el programa se cuelga porque la cota superior ( i < count) no se cumplirÔøΩa nunca.
-int TOTAL = 200;
+int TOTAL = 400;
 
 boolean drawLines = false;  // dibujar lines de colisiones, se manipula con ESPACIO
 
@@ -21,7 +21,8 @@ void setup() {
   colorMode(HSB);
   balls = new Ball[TOTAL];
   count = temp = 0;
-  size(510, 255);
+  //size(510, 255);
+  fullScreen();
   noStroke();
 }
 

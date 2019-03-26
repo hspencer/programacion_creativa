@@ -7,21 +7,21 @@
 
 // Variables
 
-int numParticles = 126;
-float minDist    = 100;
-float globalDiam = 290;
+int numParticles = 580;
+float minDist    = 170;
+float globalRadius = 800;
 Particle[] p;
 
 
 void setup() {
-  size(700, 700);
+  size(2000, 2000);
   p = new Particle[numParticles];
   int n = 0;
   while (n < numParticles) {
     float x = random(width);
     float y = random(height);
     float d = dist(x, y, width/2, height/2);
-    if (d < globalDiam) {
+    if (d < globalRadius) {
       p[n] = new Particle(x, y);
       n ++;
     }
@@ -74,7 +74,7 @@ class Particle {
     x += vx;
     y += vy;
 
-    if (dist(x, y, width/2, height/2) > globalDiam) {
+    if (dist(x, y, width/2, height/2) > globalRadius) {
       vx *= -1;
       vy *= -1;
     }
